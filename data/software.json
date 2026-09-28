@@ -58,7 +58,7 @@
             "client"
         ],
         "doap": "https://raw.githubusercontent.com/paulfariello/aparte/develop/doap.xml",
-        "name": "Apart\u00e9",
+        "name": "Aparté",
         "platforms": [],
         "url": null
     },
@@ -960,7 +960,7 @@
             "client"
         ],
         "doap": "/hosted-doap/libervia.doap",
-        "name": "Libervia (formerly Salut \u00e0 Toi)",
+        "name": "Libervia (formerly Salut à Toi)",
         "platforms": [],
         "url": null
     },
@@ -1330,7 +1330,7 @@
             "client"
         ],
         "doap": "https://raw.githubusercontent.com/igniterealtime/pade/master/docs/pade.doap",
-        "name": "P\u00e0d\u00e9",
+        "name": "Pàdé",
         "platforms": [],
         "url": null
     },
@@ -2058,6 +2058,15 @@
             "JavaScript"
         ],
         "url": "https://ivan.vucica.net/zxmpp"
+    },
+    {
+        "categories": [
+            "server"
+        ],
+        "doap": "https://git.uuxo.net/UUXO/zerta/raw/branch/main/zerta.doap",
+        "name": "Zerta",
+        "platforms": [],
+        "url": null
     }
 ]
 
